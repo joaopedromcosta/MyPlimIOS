@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  My Plim
+
+  Created by João Costa on 18/03/2019.
+  Copyright © 2019 ipvc.estg. All rights reserved.
+*/
+
+mainvc.mensagem ="Mensagem";
+
+login.welcomeMessage = "MyPlim";
+login.wrongCredentials = "Conta Inválida";
+login.usernameMissing = "Insira o seu nome de utilizador";
+login.passwordMissing = "Insira a sua palavra passe";
+login.loginButton = "Entrar";
+login.signupButton = "Registar";
+login.insertCredentialsLabel = "Insira as suas credenciais para aceder ao MyPlim";
+
+confirmationstring.yes = "Sim";
+confirmationstring.no = "Não";
+
+logout.alertTitle = "Sair";
+logout.alertMessage = "De certeza que pretende sair?";
+
+userTable.noUsers = "Não existem utilizadores";
+
+favoritesTable.noFavorites = "Não possui favoritos";
+
+blockedTable.noBlocked = "Não possui utilizadores bloqueados";
+blockedTable.userBlockedMessage = "Utilizador bloqueado. Remova dos bloqueados para realizar alguma ação";
+
+alertMessages.addToFavoritesPart1 = "De certeza que pretende adicionar ";
+alertMessages.addToFavoritesPart2 = " aos favoritos?";
+alertMessages.removeFromFavoritesPart1 = "De certeza que pretende remover ";
+alertMessages.removeFromFavoritesPart2 = " dos favoritos?";
+alertMessages.blockUser = "De certeza que pretende bloquear ";
+alertMessages.unblockUser = "De certeza que pretende desbloquear ";
